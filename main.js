@@ -1,0 +1,1 @@
+alert('Olá a todos, escutem esses sons maravilhosos');
